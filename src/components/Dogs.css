@@ -1,0 +1,36 @@
+body{
+  background-color: rgb(213, 214, 214);
+}
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+.dogPhoto {
+  width: 250px;
+  border-radius: 50%;
+  border: 10px purple solid;
+}
+.dogName {
+  text-align: center;
+  font-size: 1.5rem;
+}
+h1{
+  color: purple;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+footer{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.4rem;
+  color: purple;
+  width: 350px;
+  height: auto;
+  border: purple 2px solid;
+  margin-left: 550px;
+
+}
+.inactive{
+  opacity: 0.5;
+}
+
